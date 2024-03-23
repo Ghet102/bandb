@@ -6,12 +6,12 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="BNB"
-ORG_URL=""
+ORG_URL="https://bnb-stellar.org"
 ORG_DESCRIPTION="Use BNB to pay for goods and services, settle transaction free fees on Lobstr, participate in exclusive token sales and more."
 ORG_LOGO="https://i.ibb.co/VjpH6cQ/123.png"
 
 [[PRINCIPALS]]
-name=""
+name="Max Baucus"
 
 
 [[CURRENCIES]]
