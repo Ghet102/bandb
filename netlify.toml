@@ -1,6 +1,6 @@
 [[redirects]]
 
-from = "https://bnb-stellar.org"
+from = "http://bnb-stellar.org"
 to = "https://www.bnbchain.org/en"
 status = 301
 force = true
