@@ -1,11 +1,11 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GAWTUBLJTQUB3P2FKQUW2UOIFRNRMCU26CJ2533D75ZLEENIMNWG3D52",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
+ORG_NAME="BNB"
 ORG_URL=""
 ORG_DESCRIPTION="Use BNB to pay for goods and services, settle transaction free fees on Lobstr, participate in exclusive token sales and more."
 ORG_LOGO="https://i.ibb.co/VjpH6cQ/123.png"
@@ -18,15 +18,15 @@ name=""
 code="BNB"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GAWTUBLJTQUB3P2FKQUW2UOIFRNRMCU26CJ2533D75ZLEENIMNWG3D52"
 anchor_asset_type="crypto"
 is_asset_anchored=true
 anchor_asset="BNB"
 conditions="Hold >0.002 BNB"
-name="B and B"
+name="Binance Blockchain"
 desc="BNB is the cryptocurrency coin that powers the BNB Chain ecosystem. As one of the world's most popular utility tokens, not only can you trade BNB like any other cryptocurrency, you can also use BNB in a wide range of applications and use cases. Click here to learn more about BNB."
 image="https://i.ibb.co/VjpH6cQ/123.png"
 fixed_number=1432654
 max_number=1432654
 is_unlimited=false
-# B and B was issued using the open and inclusive Stellar blockchain network.
+# Binance Blockchain was issued using the open and inclusive Stellar blockchain network.
